@@ -19,7 +19,7 @@ public class TiposVariaveis {
 
 		System.out.print("O valor é: " + numero);
 		System.out.print("O valor é: " + salarioMinimo);
-		System.out.print("O valor é: " + numero);
+		System.out.print("O valor é: " + numero + 1);
 
         /*
 		 * ao usar a palavra reservada final, você determina que jamais
