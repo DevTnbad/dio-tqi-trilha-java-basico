@@ -2,7 +2,7 @@ public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
         // tipos primitivos
-        double salarioinimo = 2500;
+        double salarioMinimo = 2500;
 
         short numeroCurto = 1;
         int numeroNormal = numeroCurto;
@@ -18,6 +18,8 @@ public class TiposVariaveis {
 		numero = 10;
 
 		System.out.print("O valor é: " + numero);
+		System.out.print("O valor é: " + salarioMinimo);
+		System.out.print("O valor é: " + numero);
 
         /*
 		 * ao usar a palavra reservada final, você determina que jamais
@@ -31,6 +33,7 @@ public class TiposVariaveis {
 
         // estude a classe String que representa testo na aplicacao
         String meuNome = "Toddy";
+        System.out.println(meuNome);
 
     }
 }
